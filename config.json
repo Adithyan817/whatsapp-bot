@@ -1,5 +1,5 @@
 {	
-	"prefix": "multi", 
+	"prefix": "$", 
 	"defaultSessionName": "bot", 
 	"zeksKey": "apikey",
 	"autoRead": true,
